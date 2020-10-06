@@ -6,4 +6,3 @@ for(let i = 0; i = input; i++){
 };
 alert(`Общая сумма чисел равна ${+total}`);
 
-console.log(Boolean("false"));
